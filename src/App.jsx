@@ -35,8 +35,7 @@ function App() {
     setPointCharB(1)
   }
 
-
-
+  
   return (
     <div>
       <p className="text-gray-700 text-lg font-bold mb-4 uppercase">
