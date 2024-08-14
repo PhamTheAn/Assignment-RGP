@@ -24,9 +24,9 @@ function App() {
     if(pointCharA == pointCharB) {
       setResult("Same point")
     }else if(pointCharA <= pointCharB) {
-      setResult("B Win")
+      setResult("B is Winning")
     }else {
-      setResult("A Win")
+      setResult("A is Winning")
     }
   },[pointCharA, pointCharB])
 
